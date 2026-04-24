@@ -57,3 +57,13 @@ section#login > div#formulario {
     padding: 10px;
     display: block;
 }
+
+div.campo > label {
+    color: #70f53c;
+  
+}
+
+div.campo > input::placeholder {
+    color: #49a09d;
+   
+}
